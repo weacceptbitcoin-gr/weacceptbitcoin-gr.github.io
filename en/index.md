@@ -15,9 +15,7 @@ Come to one of our meetups in [Athens](https://www.meetup.com/BlockchainGreece-0
 
 ### <a name="merchant-table"></a>Which companies, stores and professionals accept Bitcoin in Greece?
 
-[Map search](https://coinmap.org/#/world/38.81403111/24.63134766/6). New map entries show up [here](https://twitter.com/hashtag/coinmap_gr?f=tweets&vertical=default&src=hash).
-
-![](/images/Coinmap.png)
+[Map search](https://btcmap.org/).
 
 <table>
 {% for company in site.data.data %}
@@ -83,7 +81,7 @@ Cryptocurrency in Greece is currently only regulated from an AML (Anti Money Lau
 - The [Cyprus Blockchain Technologies](http://cybt.eu) non-profit organization
 - Other [funded startups](https://docs.google.com/spreadsheets/d/1q8H-evgVzzqmrzmRkNA9RSafhd1g80CS1nK5B6Hedl8/edit#gid=0)
 
-Last update: 2024-11-11
+Last update: 2025-04-25
 
 <!-- <div class="posts">
   {% for post in site.posts %}

@@ -48,9 +48,7 @@ title: Πως αγοράζω, πουλάω, ξοδεύω και δεχόμαι B
 
 ### <a name="merchant-table"></a>Ποιές εταιρείες και επαγγελματίες δέχονται Bitcoin στην Ελλάδα;
 
-[Αναζήτηση σε χάρτη](https://coinmap.org/#/world/38.81403111/24.63134766/6). Ενημερωθείτε για νέες καταχωρήσεις στον χάρτη [εδώ](https://twitter.com/hashtag/coinmap_gr?f=tweets&vertical=default&src=hash).
-
-![](/images/Coinmap.png)
+[Αναζήτηση σε χάρτη](https://btcmap.org/). 
 
 <table>
 {% for company in site.data.data %}
@@ -279,7 +277,7 @@ ii) στο πλαίσιο των Ε.Λ.Π. αποτιμάται στο αποσ�
 
 ### <a name="promote"></a>  Πώς θα διαφημίσω ότι δέχομαι Bitcoin ως τρόπο πληρωμής;
 
-- Προσθέστε τον εαυτό σας στον [χάρτη του Coinmap](https://coinmap.org/#/world/38.81403111/24.63134766/6).
+- Προσθέστε τον εαυτό σας στον [χάρτη του BTC Map](https://btcmap.org/).
 - Προσθέστε κάποια σχετική [εικόνα](https://en.bitcoin.it/wiki/Promotional_graphics) (π.χ. Bitcoin Accepted Here) στο κατάστημά σας και στην ιστοσελίδα σας.
 - Στείλε μας email (αναγράφεται στο τέλος της σελίδας) ώστε να σας προσθέσουμε στη σελίδα αυτή. Ή κάνετε ένα Pull Request στο GitHub!
 
@@ -339,7 +337,7 @@ ii) στο πλαίσιο των Ε.Λ.Π. αποτιμάται στο αποσ�
 - Ο Μη-Κερδοσκοπικός Οργανισμός [Cyprus Blockchain Technologies](http://cybt.eu)
 - Άλλες [startups που έλαβαν χρηματοδότηση](https://docs.google.com/spreadsheets/d/1q8H-evgVzzqmrzmRkNA9RSafhd1g80CS1nK5B6Hedl8/edit#gid=0)
 
-Τελευταία ενημέρωση: 2024-11-11
+Τελευταία ενημέρωση: 2025-04-25
 
 <!-- <div class="posts">
   {% for post in site.posts %}
