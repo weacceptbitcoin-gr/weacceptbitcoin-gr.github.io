@@ -76,12 +76,12 @@ Cryptocurrency in Greece is currently only regulated from an AML (Anti Money Lau
 - [Bcash Greece](https://bcash.gr) makes Bitcoin ATMs
 - [mytracknet](https://www.mytracknet.com)
 - [BLOCK.CO](https://block.co)
-- [Retraced](https://retraced.co/) develop their product in Cyprus
+- [SUI](https://www.suihub.org)
 - The [Hellenic Blockchain Hub](http://blockchain.org.gr) non-profit organization
 - The [Cyprus Blockchain Technologies](http://cybt.eu) non-profit organization
 - Other [funded startups](https://docs.google.com/spreadsheets/d/1q8H-evgVzzqmrzmRkNA9RSafhd1g80CS1nK5B6Hedl8/edit#gid=0)
 
-Last update: 2025-04-25
+Last update: 2025-06-12
 
 <!-- <div class="posts">
   {% for post in site.posts %}

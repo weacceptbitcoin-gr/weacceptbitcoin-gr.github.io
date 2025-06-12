@@ -333,11 +333,12 @@ ii) στο πλαίσιο των Ε.Λ.Π. αποτιμάται στο αποσ�
 - Η [Bcash Greece](https://bcash.gr) φτιάχνει Bitcoin ATMs
 - Η [mytracknet](https://www.mytracknet.com)
 - Η [BLOCK.CO](https://block.co)
+- Η [SUI](https://www.suihub.org)
 - Ο Μη-Κερδοσκοπικός Οργανισμός [Hellenic Blockchain Hub](http://blockchain.org.gr)
 - Ο Μη-Κερδοσκοπικός Οργανισμός [Cyprus Blockchain Technologies](http://cybt.eu)
 - Άλλες [startups που έλαβαν χρηματοδότηση](https://docs.google.com/spreadsheets/d/1q8H-evgVzzqmrzmRkNA9RSafhd1g80CS1nK5B6Hedl8/edit#gid=0)
 
-Τελευταία ενημέρωση: 2025-04-25
+Τελευταία ενημέρωση: 2025-06-12
 
 <!-- <div class="posts">
   {% for post in site.posts %}
