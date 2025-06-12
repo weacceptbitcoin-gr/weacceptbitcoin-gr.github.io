@@ -8,7 +8,7 @@
 
 - company_gr: Bitrefill ⚡️
   company_en: Bitrefill ⚡
-  url: https://en.bitrefill.com/greece/
+  url: https://www.bitrefill.com/gr/en/
   category_gr: Φόρτιση καρτοκινητών Vodafone, Q, Wind, Cosmote, CYTA
   category_en: Top up prepaid Vodafone, Q, Wind, Cosmote and CYTA phones
   location_gr: Online
@@ -16,7 +16,7 @@
 
 - company_gr: Bitrefill ⚡️
   company_en: Bitrefill ⚡
-  url: https://en.bitrefill.com/greece/
+  url: https://www.bitrefill.com/gr/en/
   category_gr: e-fresh σούπερμαρκετ
   category_en: e-fresh supermarket
   location_gr: Online
@@ -24,7 +24,7 @@
 
 - company_gr: Bitrefill ⚡️
   company_en: Bitrefill ⚡
-  url: https://en.bitrefill.com/greece/
+  url: https://www.bitrefill.com/gr/en/
   category_gr: Έπιπλα ΙΚΕΑ
   category_en: IKEA furniture
   location_gr: Online
@@ -32,7 +32,7 @@
 
 - company_gr: Bitrefill ⚡️
   company_en: Bitrefill ⚡
-  url: https://en.bitrefill.com/greece/
+  url: https://www.bitrefill.com/gr/en/
   category_gr: Πλαίσιο οργάνωση γραφείου και ηλεκτρονικά
   category_en: Plaisio office supplies and electronics
   location_gr: Online
@@ -53,14 +53,6 @@
   category_en: Science fiction books with Greek mythology
   location_gr: Online
   location_en: Online
-
-- company_gr: The Cube
-  company_en: The Cube
-  url: https://thecube.gr
-  category_gr: Coworking space
-  category_en: Coworking space
-  location_gr: Αθήνα, Αττική, Ελλάδα
-  location_en: Athens, Attica, Greece
   
 - company_gr: My Sunshine
   company_en: My Sunshine
@@ -723,14 +715,6 @@
   url: http://www.fit.gr
   category_gr: Συμπληρώματα διατροφής
   category_en: Food supplements
-  location_gr: Αθήνα, Αττική, Ελλάδα
-  location_en: Athens, Attica, Greece
-
-- company_gr: Meat Pro
-  company_en: Meat Pro
-  url: http://meatpro.edu.gr
-  category_gr: Σχολή Κρεοπωλών
-  category_en: School for Butchers
   location_gr: Αθήνα, Αττική, Ελλάδα
   location_en: Athens, Attica, Greece
 
