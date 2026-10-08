@@ -46,10 +46,6 @@ Always compare the exchange rate and fees. Some of the buy & sell methods below 
 
 ### <a name="localbanks"></a>Do Greek and Cypriot banks impose restrictions?
 
-In Greece, the National Bank of Greece have this statement on their e-banking site saying they apply "enhanced due diligence" on transactions to/from cryptocurrency exchanges and that your transactions may be denied.
-
-![](/images/NBG-Crypto-AML.jpeg)
-
 In Cyprus, all banks deny transactions to/from cryptocurrency exchanges.
 
 Bank of Cyprus in their [Group Customer Acceptance Policy](https://www.bankofcyprus.com/contentassets/a43a89acae0049fab0e35591379bf9e7/group-customer-acceptance-policy.pdf) forbid transactions with cryptocurrency exchanges and also do not accept exchanges as customers.
@@ -60,12 +56,10 @@ These restrictions exist because banks are afraid of the AML fines they face in 
 
 ### <a name="regulator"></a>Who regulates cryptocurrency in Greece?
 
-Cryptocurrency in Greece is currently only regulated from an AML (Anti Money Laundering) point of view, according to law [4557/2018](https://www.taxheaven.gr/law/4557/2018) (the linked law text is fully up-to-date), as modified by law [4734/2020](https://www.taxheaven.gr/law/4734/2020). The latter is known as the [European Union's AMLD5 Directive](https://www.sygna.io/blog/what-is-amld5-anti-money-laundering-directive-five-a-guide/). The regulator is the [Hellenic Capital Markets Commission](http://www.hcmc.gr/el_GR/web/portal/mlaundering1) that maintains a Registry of [AML-regulated cryptocurrency exchanges](http://www.hcmc.gr/aweb/files/laundering/files/Register%20of%20Providers%20of%20Exchange%20Services_EN.pdf) and [AML-regulated cryptocurrency custodians](http://www.hcmc.gr/aweb/files/laundering/files/Register%20of%20Custodian%20Wallet%20Providers_EN.pdf).
+Cryptocurrency in Greece is currently only regulated by the the [Hellenic Capital Markets Commission](http://www.hcmc.gr/en_US/web/portal/agores-kryptostoicheion)
 
 ### <a name="projects"></a>What cryptocurrency and blockchain projects are there in Greece and Cyprus?
 
-- Bitcoin nodes running in [Greece](https://bitnodes.earn.com/nodes/?q=Greece) and [Cyprus](https://bitnodes.earn.com/nodes/?q=Cyprus)
-- The [Coinomi multicurrency wallet](https://coinomi.com)
 - The [University of Nicosia free Introduction to Digital Currencies MOOC  and the MSc in Digital Currency](https://digitalcurrency.unic.ac.cy)
 - [norbloc](https://norbloc.com)
 - [TaxExperts](https://www.taxexperts.gr) offers cryptocurrency taxation advice
@@ -81,7 +75,7 @@ Cryptocurrency in Greece is currently only regulated from an AML (Anti Money Lau
 - The [Cyprus Blockchain Technologies](http://cybt.eu) non-profit organization
 - Other [funded startups](https://docs.google.com/spreadsheets/d/1q8H-evgVzzqmrzmRkNA9RSafhd1g80CS1nK5B6Hedl8/edit#gid=0)
 
-Last update: 2025-06-12
+Last update: 2026-10-08
 
 <!-- <div class="posts">
   {% for post in site.posts %}
