@@ -101,10 +101,6 @@ title: Πως αγοράζω, πουλάω, ξοδεύω και δεχόμαι B
 
 ### <a name="localbanks"></a>Υπάρχουν περιορισμοί στις Ελληνικές και Κυπριακές Τράπεζες;
 
-Στην Ελλάδα, η Εθνική Τράπεζα Ελλάδος δηλώνει στο e-banking της ότι εφαρμόζει «μέτρα αυξημένης δέουσας επιμέλειας» και ότι οι συναλλαγές σας από/προς ανταλλακτήρια κρυπτονομισμάτων μπορεί να μην εκτελεστούν.
-
-![](/images/NBG-Crypto-AML.jpeg)
-
 Στην Κύπρο, όλες οι τράπεζες γενικά δεν δέχονται συναλλαγές με ανταλλακτήρια κρυπτονομισμάτων.
 
 Η Τράπεζα Κύπρου στο [Group Customer Acceptance Policy](https://www.bankofcyprus.com/contentassets/a43a89acae0049fab0e35591379bf9e7/group-customer-acceptance-policy.pdf) απαγορεύει συναλλαγές με ανταλακτήρια κρυπτονομισμάτων και επίσης δεν δέχεται ανταλλακτήρια ως πελάτες.
@@ -118,7 +114,6 @@ title: Πως αγοράζω, πουλάω, ξοδεύω και δεχόμαι B
 - Μπορείτε να κάνετε συναλλαγές στα περισσότερα ανταλλακτήρια κάνοντας SEPA transfers από/προς τη Revolut.
 - Η ίδια η Revolut πουλάει Bitcoin και πλέον σας επιτρέπει να τα βγάλετε σε κάποιο προσωπικό σας πορτοφόλι.
 - Επειδή οι συναλλαγές μέσω Paypal είναι εύκολα αντιστρέψιμες, δεν θα βρείτε εύκολα κάποιον να σας πουλήσει Bitcoin μέσω Paypal.
-- Κάποια ανταλλακτήρια, όπως η [Coibase](https://help.coinbase.com/en/coinbase/getting-started/add-a-payment-method/paypal-faq) σας επιτρέπουν να κάνετε ανάληψη προς Paypal, σας επιτρέπουν δηλαδή να πουλήσετε Bitcoin σε αυτούς και σας πληρώνουν στο Paypal.
 
 ### <a name="bitcoin.org"></a>Που μπορώ να μάθω περισσότερα για το Bitcoin;
 
@@ -155,25 +150,11 @@ title: Πως αγοράζω, πουλάω, ξοδεύω και δεχόμαι B
 - Τα Bitcoin πρέπει να τα προστατεύουμε από κλοπή και από καταστροφή του μέσου που είναι αποθηκευμένα, όπως και τα μετρητά.
 - Το Bitcoin, όπως τα μετρητά και ο χρυσός, και σε αντίθεση με τις τραπεζικές καταθέσεις, δεν έχει counterparty (αντισυμβαλλόμενο) από τον οποίο εξαρτώμαστε. Το Bitcoin θεωρείται [base money](https://cryptovoices.com/basemoney).
 
-### <a name="valuation"></a>Ποια είναι κάποια μοντέλα αποτίμησης του Bitcoin;
-
-![](/images/Bitcoin_Stock-To-Flow_S2F_model.png)
-
-- Το [μοντέλο αποτίμησης του Bitcoin Stock-to-Flow](https://planbtc.com/), διαθέσιμο και στα Ελληνικά.
-- Οι εκθέσεις αποτίμησης του Bitcoin των Greyscale, Paul Tudor Jones, MicroStrategy, Fidelity και VanEck.
-
 ### <a name="wallet"></a>Πώς μπορώ να αποκτήσω ένα πορτοφόλι Bitcoin;
 
 Μια λίστα με πορτοφόλια Bitcoin είναι αναρτημένη στο [bitcoin.org](https://bitcoin.org/en/choose-your-wallet). Εδώ μπορείτε να δείτε ένα [βίντεο](https://www.youtube.com/watch?v=9qgqPvc6kgM) για το πως φτιάχνετε ένα πορτοφόλι CoPay. Άλλη λίστα με [έμπιστα πορτοφόλια Bitcoin](https://www.lopp.net/bitcoin-information/recommended-wallets.html).
 
 Προσοχή: ποτέ δεν ψάχνουμε στο Google ή στο Gooble Play ή στο Apple AppStore για "Bitcoin wallet" γιατί θα πέσουμε σε ψεύτικα πορτοφόλια που θα μας κλέψουν τα Bitcoin.
-
-### <a name="greekwallet"></a>Αναζητώ ένα πορτοφόλι Bitcoin που να λειτουργεί στα Ελληνικά
-
-Δοκιμάστε τα:
-
-- [Coinomi](https://coinomi.com), τρέχει σε Android και iOS.
-- [Electrum](https://electrum.org) τρέχει σε Windows, Mac, Linux, Android.
 
 ### <a name="paymentsinperson"></a> Τι χρειάζομαι για να δέχομαι πληρωμές σε κατάστημα;
 
@@ -239,11 +220,11 @@ title: Πως αγοράζω, πουλάω, ξοδεύω και δεχόμαι B
 
 ### <a name="regulator"></a>Ποιος εποπτεύει τα κρυπτονομίσματα στην Ελλάδα;
 
-Αυτή τη στιγμή στην Ελλάδα τα κρυπτονομίσματα εποπτεύονται μόνο από την σκοπιά του Ξεπλύματος Μαύρου Χρήματος (AML - Anti Money Laundering) σύμφωνα με το νόμο [4557/2018](https://www.taxheaven.gr/law/4557/2018) (το κείμενο του νόμου είναι πλήρως ενημερωμένο), όπως μεταβλήθηκε από το νόμο [4734/2020](https://www.taxheaven.gr/law/4734/2020). Ο τελευταίος είναι γνωστός και ως η [Οδηγία AMLD5 της Ευρωπαϊκής Ένωσης](https://www.sygna.io/blog/what-is-amld5-anti-money-laundering-directive-five-a-guide/). Επόπτης είναι η [Επιτροπή Κεφαλαιαγοράς](http://www.hcmc.gr/el_GR/web/portal/mlaundering1) η οποία διατηρεί το [Μητρώο εποπτευόμενων ανταλλακτηρίων/ΑΤΜ](http://www.hcmc.gr/aweb/files/laundering/files/Register%20of%20Providers%20of%20Exchange%20Services_EL.pdf) και το [Μητρώο θεματοφυλάκων κρυπτονομισμάτων](http://www.hcmc.gr/aweb/files/laundering/files/Register%20of%20Custodian%20Wallet%20Providers_EL.pdf).
+Αυτή τη στιγμή στην Ελλάδα τα κρυπτονομίσματα εποπτεύονται από την [Επιτροπή Κεφαλαιαγοράς](http://www.hcmc.gr/el_GR/web/portal/agores-kryptostoicheion).
 
 ### <a name="tax"></a>Πώς φορολογούνται τα κρυπτονομίσματα στην Ελλάδα;
 
-Δεν υπάρχει επίσημη απάντηση του κράτους. <a href="https://www.taxexperts.gr/αρθρογραφία/φορολόγηση-υπεραξίας-από-bitcoins">Οι λογιστές εικάζουν</a> ότι φορολογούνται με φόρο υπεραξίας (15%) συν εισφορά αλληλεγγύης (η οποία έχει καταργηθεί για το 2020 και 2021). Δημιουργήθηκε [σοβαρό θέμα](https://artion.gr/kriptonomismata-meteori-i-forologisi-tous-stin-ellada/) με την προσέγγιση αυτή με την [απόφαση 417 της Διεύθυνσης Επίλυσης Διαφορών Θεσσαλονίκης](http://elib.aade.gr/elib/view?d=/gr/ded/2023/417_en_the/). Άνω των 3 συναλλαγών το εξάμηνο φορολογούνται ως εισόδημα. Σε κάθε περίπτωση οι φορολογούμενοι θα πρέπει να τηρούν αρχείο με αποδεικτικά του πότε αγόρασαν και πούλησαν κρυπτονομίσματα και σε ποια τιμή, εάν θέλουν να δηλώσουν κέρδη από αγοραπωλησία στην εφορία.
+Την 2026-10-07 η Ελληνική κυβέρνηση [έθεσε σε διαβούλευση σχέδιο νόμου που φορολογεί τα κέρδη από τη ρευστοποίηση κρυπτονομισμάτων με 10% από 2027-01-01](https://opengov.gr/minfin/deliberations/enischysi-epopteias-ton-ypo-diacheirisi-apaitiseon-apo-daneia-kai-pistoseis-prostasia-synepon-ofeileton-enischysi-ton-syllogikon-ependyseon-kai-tis-kefalaiagoras-kathos-kai-tis-diacheirisi/). Σε διαβούλευση σημαίνει ότι δεν έχει κατατεθεί ακόμη στην Βουλή και δεν έχει ψηφιστεί.
 
 ### <a name="accounting"></a>Πώς αντιμετωπίζονται τα κρυπτονομίσματα στα Ελληνικά Λογιστικά Πρότυπα;
 
@@ -263,17 +244,11 @@ ii) στο πλαίσιο των Ε.Λ.Π. αποτιμάται στο αποσ�
 
 ### <a name="taxcyprus"></a>Πώς φορολογούνται τα κρυπτονομίσματα στην Κύπρο;
 
-Δεν υπάρχει επίσημη, γραπτή απάντηση από την εφορία. Κάποιοι λογιστές εικάζουν ότι δεν φορολογείται, άλλοι εικάζουν ότι φορολογείται.
+[Τα κέρδη από τη διάθεση κρυπτονομισμάτων στην Κύπρο φορολογούνται με 8% από 2026-01-01](https://www.gov.cy/mof-tax/documents/forologisi-kerdon-apo-synallages-se-kryptostoicheia/sychnes-erotiseis-anaforika-me-ti-forologisi-kerdon-apo-synallages-se-kryptostoicheia-apo-01-01-2026/).
 
 ### <a name="demo"></a>Πώς μπορώ να δω μια πληρωμή με Bitcoin από κοντά;
 
 Ελάτε σε κάποια συνάντησή μας στην Ελλάδα ή στην Κύπρο που θα βρείτε στην κορυφή αυτής της σελίδας. Δείτε αυτό το [βίντεο]([https://www.youtube.com/watch?v=9qgqPvc6kgM](https://youtu.be/imMX7i4qpmg?feature=shared&t=145)) για το πως φτιάχνετε ένα πορτοφόλι και στέλνετε και λαμβάνετε Bitcoin.
-
-### <a name="sepatobitcoin"></a> Πώς μπορώ να δεχτώ έμβασμα σε τράπεζα της Ευρωζώνης και να μετατρέψω τα Ευρώ σε Bitcoin;
-
-Μπορείτε να χρησιμοποιήσετε:
-
-- Η [Bitwala](https://bitwala.com) προσφέρει λογαριασμούς Ευρώ με δικό σας IBAN και πορτοφόλια Bitcoin.
 
 ### <a name="promote"></a>  Πώς θα διαφημίσω ότι δέχομαι Bitcoin ως τρόπο πληρωμής;
 
@@ -320,10 +295,7 @@ ii) στο πλαίσιο των Ε.Λ.Π. αποτιμάται στο αποσ�
 
 ### <a name="projects"></a>Ποια projects σχετικά με κρυπτονομίσματα και blockchain υπάρχουν στην Ελλάδα και στην Κύπρο;
 
-- Bitcoin nodes που τρέχουν στην [Ελλάδα](https://bitnodes.earn.com/nodes/?q=Greece) και στην [Κύπρο](https://bitnodes.earn.com/nodes/?q=Cyprus)
-- Το [Coinomi multicurrency wallet](https://coinomi.com)
 - Το [University of Nicosia δωρεάν MOOC Introduction to Digital Currencies και το MSc in Digital Currency](https://digitalcurrency.unic.ac.cy)
-- Η [Synaphea](https://synaphea.com) Enterprise Blockchain Solutions
 - Η [norbloc](https://norbloc.com)
 - Η [TaxExperts](https://www.taxexperts.gr) ασχολείται με θέματα φορολογίας κρυπτονομισμάτων
 - Η [ACNT](https://acnt.gr) ασχολείται με θέματα φορολογίας κρυπτονομισμάτων
@@ -338,7 +310,7 @@ ii) στο πλαίσιο των Ε.Λ.Π. αποτιμάται στο αποσ�
 - Ο Μη-Κερδοσκοπικός Οργανισμός [Cyprus Blockchain Technologies](http://cybt.eu)
 - Άλλες [startups που έλαβαν χρηματοδότηση](https://docs.google.com/spreadsheets/d/1q8H-evgVzzqmrzmRkNA9RSafhd1g80CS1nK5B6Hedl8/edit#gid=0)
 
-Τελευταία ενημέρωση: 2025-06-12
+Τελευταία ενημέρωση: 2026-10-08
 
 <!-- <div class="posts">
   {% for post in site.posts %}
