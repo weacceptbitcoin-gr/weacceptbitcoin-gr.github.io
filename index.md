@@ -117,12 +117,12 @@ title: Πως αγοράζω, πουλάω, ξοδεύω και δεχόμαι B
 
 ### <a name="bitcoin.org"></a>Που μπορώ να μάθω περισσότερα για το Bitcoin;
 
-Η επίσημη σελίδα ενημέρωσης για το Bitcoin είναι το [bitcoin.org](https://bitcoin.org). Η σελίδα [Bitcoin Resources του Jameson Lopp](https://lopp.net/bitcoin.html) είναι επίσης πολύ χρήσιμη. Στα Ελληνικά υπάρχει και το [learnbitcoin.gr](https://learnbitcoin.gr).
+Η επίσημη σελίδα ενημέρωσης για το Bitcoin είναι το [bitcoin.org](https://bitcoin.org). Η σελίδα [Bitcoin Resources του Jameson Lopp](https://lopp.net/bitcoin.html) είναι επίσης πολύ χρήσιμη. Στα Αγγλικά, το [LearnBitcoin](https://www.learnbitcoin.com/journey) προσφέρει μια εισαγωγή στο Bitcoin σε έξι κεφάλαια.
 
 ### <a name="books"></a>Ποια βιβλία να διαβάσω για το Bitcoin;
 
-- Μικρό, εισαγωγικό, μη-τεχνικό βιβλίο: [The Little Bitcoin Book: Why Bitcoin Matters for Your Freedom, Finances, and Future](https://littlebitcoinbook.com)
-- Μικρό, εισαγωγικό, μη-τεχνικό βιβλίο: [21 Lessons: What I've Learned from Falling Down the Bitcoin Rabbit Hole](https://21lessons.com) ([στα Ελληνικά](https://niclick.org/blog/21-mathimata-philosofia/))
+- Μικρό, εισαγωγικό, μη-τεχνικό βιβλίο: [The Little Bitcoin Book: Why Bitcoin Matters for Your Freedom, Finances, and Future](https://web.archive.org/web/20260622062437/https://littlebitcoinbook.com/)
+- Μικρό, εισαγωγικό, μη-τεχνικό βιβλίο: [21 Lessons: What I've Learned from Falling Down the Bitcoin Rabbit Hole](https://21lessons.com) ([στα Ελληνικά](https://niclick.org/philosophy))
 - Μη-τεχνικό βιβλίο για την ιστορία του Bitcoin: [Digital Gold](https://www.harpercollins.com/9780062572066/digital-gold/)
 - Μη-τεχνικά βιβλία για τη χρησιμότητα του Bitcoin: [The Internet of Money](https://theinternetofmoney.info)
 - Μικρό, μη-τεχνικό βιβλίο για τη θέση του Bitcoin στην κορυφή του διεθνούς χρηματοπιστωτικού συστήματος: [Layered Money: From Gold and Dollars to Bitcoin and Central Bank Digital Currencies](https://www.layeredmoney.com)
