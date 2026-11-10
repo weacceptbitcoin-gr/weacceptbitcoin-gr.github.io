@@ -224,7 +224,7 @@ title: Πως αγοράζω, πουλάω, ξοδεύω και δεχόμαι B
 
 ### <a name="tax"></a>Πώς φορολογούνται τα κρυπτονομίσματα στην Ελλάδα;
 
-Την 2026-10-07 η Ελληνική κυβέρνηση [έθεσε σε διαβούλευση σχέδιο νόμου που φορολογεί τα κέρδη από τη ρευστοποίηση κρυπτονομισμάτων με 10% από 2027-01-01](https://opengov.gr/minfin/deliberations/enischysi-epopteias-ton-ypo-diacheirisi-apaitiseon-apo-daneia-kai-pistoseis-prostasia-synepon-ofeileton-enischysi-ton-syllogikon-ependyseon-kai-tis-kefalaiagoras-kathos-kai-tis-diacheirisi/). Σε διαβούλευση σημαίνει ότι δεν έχει κατατεθεί ακόμη στην Βουλή και δεν έχει ψηφιστεί.
+Σύμφωνα με τον νόμο [5354/2026](https://search.et.gr/fek/?fekId=808028) τα κέρδη από τη ρευστοποίηση κρυπτονομισμάτων (crypto-to-fiat) φορολογούνται με 10% και το εισόδημα από δανεισμό, staking και yield farming φορολογείται με 15%. Ισχύει για τα κέρδη από 2027-01-01. Από την 2027-11-10 ισχύει αμνηστία 12 μηνών για τη δήλωση παλαιών κερδών, σύμφωνα με το άρθρο 49.
 
 ### <a name="accounting"></a>Πώς αντιμετωπίζονται τα κρυπτονομίσματα στα Ελληνικά Λογιστικά Πρότυπα;
 
@@ -310,7 +310,7 @@ ii) στο πλαίσιο των Ε.Λ.Π. αποτιμάται στο αποσ�
 - Ο Μη-Κερδοσκοπικός Οργανισμός [Cyprus Blockchain Technologies](http://cybt.eu)
 - Άλλες [startups που έλαβαν χρηματοδότηση](https://docs.google.com/spreadsheets/d/1q8H-evgVzzqmrzmRkNA9RSafhd1g80CS1nK5B6Hedl8/edit#gid=0)
 
-Τελευταία ενημέρωση: 2026-10-08
+Τελευταία ενημέρωση: 2026-11-10
 
 <!-- <div class="posts">
   {% for post in site.posts %}
