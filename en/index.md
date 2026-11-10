@@ -9,6 +9,7 @@ Come to one of our meetups in [Athens](https://www.meetup.com/BlockchainGreece-0
 
 - [Which companies, stores and professionals accept Bitcoin in Greece?](#merchant-table)
 - [How can I buy Bitcoin in Greece?](#buybitcoin)
+- [How are cryptocurrencies taxed in Greece?](#tax)
 - [Do Greek and Cypriot banks impose restrictions?](#localbanks)
 - [Who regulates cryptocurrency in Greece?](#regulator)
 - [What cryptocurrency and blockchain projects are there in Greece and Cyprus?](#projects)
@@ -44,6 +45,10 @@ Always compare the exchange rate and fees. Some of the buy & sell methods below 
 - From a [European Bitcoin fund](https://www.justetf.com/en/how-to/invest-in-bitcoin.html).
 - From Revolut.
 
+### <a name="tax"></a>How are cryptocurrencies taxed in Greece?
+
+According to [law 5354/2026](https://search.et.gr/fek/?fekId=808028) capital gains from the disposal of cryptocurrencies (crypto-to-fiat) are taxed at 10%. Income from lending, staking and yield farming are taxed at 15%. Applies to gains from 2027-01-01. There is a 12-month amnesty for declaring past gains starting from 2026-11-10, according to article 49 of the law.
+
 ### <a name="localbanks"></a>Do Greek and Cypriot banks impose restrictions?
 
 In Cyprus, all banks deny transactions to/from cryptocurrency exchanges.
@@ -75,7 +80,7 @@ Cryptocurrency in Greece is currently only regulated by the the [Hellenic Capita
 - The [Cyprus Blockchain Technologies](http://cybt.eu) non-profit organization
 - Other [funded startups](https://docs.google.com/spreadsheets/d/1q8H-evgVzzqmrzmRkNA9RSafhd1g80CS1nK5B6Hedl8/edit#gid=0)
 
-Last update: 2026-10-08
+Last update: 2026-11-10
 
 <!-- <div class="posts">
   {% for post in site.posts %}
